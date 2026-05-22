@@ -24,7 +24,7 @@ Ce dépôt contient un pipeline complet de Data Mining dédié à la segmentatio
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn pyarrow
-
+```
 
 ---
 
