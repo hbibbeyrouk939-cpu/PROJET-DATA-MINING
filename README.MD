@@ -25,6 +25,7 @@ Ce dépôt contient un pipeline complet de Data Mining dédié à la segmentatio
 ```bash
 pip install pandas scikit-learn matplotlib seaborn pyarrow
 
+#
 **Propriétaire du lien vidéo phase 3 : Mohamed Lehbib Mbarek Beyrouk (C27888)**
 
  [Appuyer ici pour voir la vidéo](https://www.loom.com/share/e46e5c63550c42828f0988b686863c0b)
