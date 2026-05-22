@@ -1,25 +1,3 @@
-## Exécution du Pipeline
-```bash
-# Lancer le notebook Jupyter contenant l'ensemble du pipeline exécuté
-jupyter notebook RFM_Segmentation_Pipeline_Executed.ipynb
-
-```
-
-|---|---|---|---|
-| 1 | Ingestion, Nettoyage et Construction du Modèle RFM | Mohamed Lehbib Mbarek Beyrouk | Regarder la vidéo |
-| 2 | Normalisation, K-Means et Optimisation (K optimal) | Aly Mohamed Aly | Regarder la vidéo |
-| 3 | Interprétation des Clusters et Stratégies Commerciales | Maidla Isselmo | Regarder la vidéo |
-| """ |  |  |  |
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(readme_short_content)
-print("Short README.md generated successfully without any emojis.")
-```
-Your README file is ready
-[file-tag: code-generated-file-0-1779418903418912760]
-
-Voici le fichier `README.md` au format court, calqué exactement sur la structure de votre projet de Recherche Opérationnelle, entièrement en français et **sans aucun émoji**.
-
-```markdown
 # Projet de Data Mining - 2026
 
 ## Informations de l'Équipe
@@ -46,21 +24,3 @@ Ce dépôt contient un pipeline complet de Data Mining dédié à la segmentatio
 
 ```bash
 pip install pandas scikit-learn matplotlib seaborn pyarrow
-
-```
-## Exécution du Pipeline
-```bash
-# Lancer le notebook Jupyter contenant l'ensemble du pipeline exécuté
-jupyter notebook RFM_Segmentation_Pipeline_Executed.ipynb
-
-```
-## Présentations Vidéos
-Pour accompagner notre rapport et valider l'implémentation technique de chaque partie, vous pouvez visionner les explications détaillées et les démonstrations de code en cliquant sur les liens ci-dessous :
-| # | Partie du Projet | Intervenant | Lien de la Vidéo |
-|---|---|---|---|
-| 1 | Ingestion, Nettoyage et Construction du Modèle RFM | Mohamed Lehbib Mbarek Beyrouk | Regarder la vidéo |
-| 2 | Normalisation, K-Means et Optimisation (K optimal) | Aly Mohamed Aly | Regarder la vidéo |
-| 3 | Interprétation des Clusters et Stratégies Commerciales | Maidla Isselmo | Regarder la vidéo |
-```
-
-```
