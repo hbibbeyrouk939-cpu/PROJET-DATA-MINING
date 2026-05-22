@@ -25,7 +25,14 @@ Ce dépôt contient un pipeline complet de Data Mining dédié à la segmentatio
 ```bash
 pip install pandas scikit-learn matplotlib seaborn pyarrow
 
-#
-**Propriétaire du lien vidéo phase 3 : Mohamed Lehbib Mbarek Beyrouk (C27888)**
 
- [Appuyer ici pour voir la vidéo](https://www.loom.com/share/e46e5c63550c42828f0988b686863c0b)
+---
+
+## Présentations Vidéos (Démos Loom)
+
+Pour accompagner notre rapport et valider l'implémentation technique de chaque partie, vous pouvez visionner les explications détaillées et les démonstrations de code en cliquant sur les liens ci-dessous :
+
+| # | Partie du Projet | Intervenant | Lien de la Vidéo (Loom) |
+| :-: | :--- | :--- | :--- |
+| 1 | **Introduction & Optimisation du Transport de Poisson** | Mouhamed Lehbib Beyrouk | [▶ Regarder la vidéo](https://www.loom.com/share/7d19636821a249fd8407f32cbd4549d5) |
+| 2 | **Routage des Camions d'Eau (Formulation MTZ)** | Aly Mohamed Aly | [▶ Regarder la vidéo](https://www.loom.com/share
