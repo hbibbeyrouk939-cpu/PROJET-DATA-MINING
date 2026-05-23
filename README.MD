@@ -34,4 +34,6 @@ Pour accompagner notre rapport et valider l'implémentation technique de chaque 
 
 | # | Partie du Projet | Intervenant | Lien de la Vidéo (Loom) |
 | :-: | :--- | :--- | :--- |
-| 1 | PHASE3 transformation RFM| Mouhamed Lehbib Beyrouk | [Regarderla vidéo](https://www.loom.com/share/e46e5c63550c42828f0988b686863c0b) |
+| 1 | **PHASE3 TransformationRFM** | Mouhamed Lehbib Beyrouk | [▶ Regarder la vidéo](https://www.loom.com/share/e46e5c63550c42828f0988b686863c0b) |
+| 2 | **PHASE4&5 (Clustering, Optimisation et Interprétation des Segments)** | Aly Mohamed Aly | [ Regarder la vidéo](دير رابطك هون) |
+| 3 | **PHASE1&2 (Ingestion, Nettoyage et Préparation des Données)** | Maidla Isselmo| [▶Regarder la vidéo](https://www.loom.com/share/079fa7f4c57e421b89c5ca1d40ae9606) |
